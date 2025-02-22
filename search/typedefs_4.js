@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['receivecallback_1270',['ReceiveCallback',['../class_usb_handle.html#a33ca9123252e485a3d2045590e5e6217',1,'UsbHandle::ReceiveCallback()'],['../class_usb_handle.html#a33ca9123252e485a3d2045590e5e6217',1,'UsbHandle::ReceiveCallback()']]]
+  ['flushfuncptr_0',['FlushFuncPtr',['../structdaisy_1_1_ui_canvas_descriptor.html#a500ad5fdd90fbedadb0761d86f0d0d2e',1,'daisy::UiCanvasDescriptor']]]
 ];

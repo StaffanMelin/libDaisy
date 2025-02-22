@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['fontdef_899',['FontDef',['../struct_font_def.html',1,'']]]
+  ['encoder_0',['Encoder',['../classdaisy_1_1_encoder.html',1,'daisy']]]
 ];

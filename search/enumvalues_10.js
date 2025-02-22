@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['white_1511',['WHITE',['../classdaisy_1_1_color.html#af93d31d5fc63705c228bf9da407c9a40a83ee753e5244371af742fc0f6a831826',1,'daisy::Color']]]
+  ['qspi_0',['QSPI',['../classdaisy_1_1_system.html#aa40158e5b80587e80153b16ae22c6669a6df135cbc1eab65584cff039890c3b6b',1,'daisy::System']]]
 ];
